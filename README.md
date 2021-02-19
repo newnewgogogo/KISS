@@ -1,2 +1,2 @@
 # KISS
-keep is simple,stupid
+keep it simple,stupid
